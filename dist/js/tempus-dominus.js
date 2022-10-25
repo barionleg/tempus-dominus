@@ -3870,7 +3870,7 @@
       }
       return tempusDominus;
   };
-  const version = '#2658';
+  const version = '6.2.5';
   const tempusDominus = {
       TempusDominus,
       extend,
